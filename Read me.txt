@@ -1,0 +1,2 @@
+Text.txt in word seach
+Text2.txt in Ask2
